@@ -20,7 +20,7 @@ Este es mi portfolio de proyectos para mejorar mis habilidades como QA, tanto ma
 
 Cada proyecto tiene su carpeta. La estructura es esta:
 
-<img width="262" height="249" alt="image" src="https://github.com/user-attachments/assets/26f20c6f-d645-45f5-afd8-cdaf7f990d34" />
+<img width="287" height="822" alt="222222222222" src="https://github.com/user-attachments/assets/09f34695-d595-447f-99a0-677196abe55b" />
 
 ## Proyectos destacados
 
